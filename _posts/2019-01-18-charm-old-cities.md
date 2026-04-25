@@ -3,7 +3,7 @@ layout: post
 title:  "Could we reinvent the charm of old cities"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: assets/images/hijab/1.jpg
+image: assets/images/1.jpg
 tags: [sticky]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Elegant Hijab Styles for Everyday Confidence"
 author: jane
 categories: [ hijab, fashion, style ]
-image: assets/images/hijab/1.jpg
+image: assets/images/1.jpg
 ---
 Wearing a hijab is not only a reflection of faith but also a beautiful expression of personal style and identity. In today’s modern world, many women are embracing hijab fashion as a way to stay modest while still looking elegant and confident in their daily lives. From neutral tones to bold patterns, the choices are endless and allow every woman to create her own unique look.	
 
@@ -13,12 +13,12 @@ Another key factor is color coordination. Matching your hijab with your outfit c
 
 Accessories can also enhance your hijab style when used appropriately. Minimal jewelry, such as simple brooches or elegant pins, can add charm without overwhelming your look. The goal is to maintain balance while highlighting your personality through subtle details.		
 
-[![Beautiful Hijab Girl](/assets/images/hijab/2.jpg)](https://www.aridjaya.com)
+[![Beautiful Hijab Girl](/assets/images/2.jpg)](https://www.aridjaya.com)
 
-[![Beautiful Hijab Girl](/assets/images/hijab/3.jpg)](https://www.aridjaya.com)
+[![Beautiful Hijab Girl](/assets/images/3.jpg)](https://www.aridjaya.com)
 
-[![Beautiful Hijab Girl](/assets/images/hijab/4.jpg)](https://www.aridjaya.com)
+[![Beautiful Hijab Girl](/assets/images/4.jpg)](https://www.aridjaya.com)
 
-[![Beautiful Hijab Girl](/assets/images/hijab/5.jpg)](https://www.aridjaya.com)
+[![Beautiful Hijab Girl](/assets/images/5.jpg)](https://www.aridjaya.com)
 
 Ultimately, wearing a hijab should empower you. It is about embracing modesty while celebrating individuality. With the right styling choices, every woman can feel confident, stylish, and proud of her identity in any setting.

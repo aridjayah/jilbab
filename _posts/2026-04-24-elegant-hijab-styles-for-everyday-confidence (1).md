@@ -2,7 +2,7 @@
 title: "Elegant Hijab Styles for Everyday Confidence"
 author: lucy
 categories: [hijab, fashion, style]
-image: assets/images/hijab/100.jpg
+image: assets/images/100.jpg
 layout: post
 ---
 
